@@ -1,1 +1,1 @@
-# biodblauncher
+# Bioinformatics Database Launcher
